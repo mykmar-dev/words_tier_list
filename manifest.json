@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "word_tier_list",
+  "description": "Just justice",
+  "version": "1.0",
+  "browser_action": {
+    "default_popup": "popup.html"
+  },
+  "icons": {},
+  "permissions": ["clipboardWrite", "clipboardRead"]
+}
